@@ -1,6 +1,7 @@
 👋  Hi, I'm Aishnee (@aishnee07) 
 
 👨‍💻 About Me
+
 Associate Data Scientist at Optum with a strong foundation in data analysis, reporting, and automation. I'm passionate about leveraging Python to transform data into valuable insights and streamline processes.
 
 🔭 Current Focus
@@ -12,11 +13,11 @@ Associate Data Scientist at Optum with a strong foundation in data analysis, rep
 
 💼 Technical Skills
 
-Languages: Python, SQL
-Libraries/Frameworks: pandas, NumPy, matplotlib, seaborn
-Tools: Jupyter, Git
-Cloud: AWS (learning)
-Areas: Data Analysis, Data Visualization, Process Automation
+- Languages: Python, SQL
+- Libraries/Frameworks: pandas, NumPy, matplotlib, seaborn
+- Tools: Jupyter, Git
+- Cloud: AWS (learning)
+- Areas: Data Analysis, Data Visualization, Process Automation
 
 🌱 Learning Journey
 Currently expanding my knowledge in:
@@ -35,9 +36,8 @@ I'm looking to collaborate on:
 
 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/aishneeporwal
-
-Email: aishneeporwal@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aishneeporwal
+- Email: aishneeporwal@gmail.com
 
 ⚡ Fun Fact
 When the computers shut down, I split my time between the rapid reflexes of table tennis and peaceful hours wandering through literary worlds.
