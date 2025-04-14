@@ -40,6 +40,7 @@ I'm looking to collaborate on:
 - Email: aishneeporwal@gmail.com
 
 ⚡ Fun Fact
+
 When the computers shut down, I split my time between the rapid reflexes of table tennis and peaceful hours wandering through literary worlds.
 
 <!---
