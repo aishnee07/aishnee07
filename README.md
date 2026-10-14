@@ -1,7 +1,7 @@
 👋 Hi, I'm Aishnee (@aishnee07)  
 
 ### 👨‍💻 About Me  
-**Associate Data Scientist** at Optum with expertise in **data analysis, automation, and AI-driven solutions**. I specialize in transforming complex data into actionable insights while building scalable workflows. Passionate about bridging traditional analytics with emerging technologies like **Generative AI (GenAI) and LLMs**.  
+**Data Scientist** at Optum with 3 years of experience in **data analysis, process automations, LLMs, building scalable data pipeline and GenAI solutions**. 
 
 ### 🔭 Current Focus  
 - Developing LLM-powered solutions (chatbots, text-to-SQL) using **Hugging Face, AWS Bedrock, and LangChain**.  
